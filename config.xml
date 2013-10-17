@@ -68,15 +68,15 @@
     <icon src="res/icon/windows-phone/icon-48.png"  gap:platform="winphone" />
     <icon src="res/icon/windows-phone/icon-173.png" gap:platform="winphone"   gap:role="background" />-->
 
-    <gap:splash src="splash/ios/Default.jpg" gap:platform="ios" width="320" height="480" />
-	<gap:splash src="splash/ios/Default_at_2x.jpg" gap:platform="ios" width="640" height="960" />
-	<gap:splash src="splash/ios/Default_iphone5.jpg" gap:platform="ios" width="640" height="1136" />
-	<gap:splash src="splash/ios/Default-Landscape.jpg" gap:platform="ios" width="1024" height="748" />
-	<gap:splash src="splash/ios/Default-Portrait.jpg" gap:platform="ios" width="768" height="1004" />
+    <gap:splash src="splash/ios/Default.png" gap:platform="ios" width="320" height="480" />
+	<gap:splash src="splash/ios/Default_at_2x.png" gap:platform="ios" width="640" height="960" />
+	<gap:splash src="splash/ios/Default_iphone5.png" gap:platform="ios" width="640" height="1136" />
+	<gap:splash src="splash/ios/Default-Landscape.png" gap:platform="ios" width="1024" height="748" />
+	<gap:splash src="splash/ios/Default-Portrait.png" gap:platform="ios" width="768" height="1004" />
 
 	<!-- retina iPad support: PhoneGap 2.5.0+ only -->
-	<gap:splash src="splash/ios/Default-Landscape_at_2x.jpg" gap:platform="ios" width="2048" height="1496" />
-	<gap:splash src="splash/ios/Default-Portrait_at_2x.jpg" gap:platform="ios" width="1536" height="2008" />
+	<gap:splash src="splash/ios/Default-Landscape_at_2x.png" gap:platform="ios" width="2048" height="1496" />
+	<gap:splash src="splash/ios/Default-Portrait_at_2x.png" gap:platform="ios" width="1536" height="2008" />
 
     <access origin="*"/> <!-- allow local pages -->
 </widget>
